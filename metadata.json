@@ -1,0 +1,6 @@
+{
+  "name": "Interior Finance",
+  "description": "Professional full-stack interior design financial ledger with AI quotation audit, auto-scheduling, material tracking, and sourcing requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
